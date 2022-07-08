@@ -1,10 +1,10 @@
-import Form from "./component/Form";
+import Formee from "./component/Formee";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
     <div className="App">
-      <Form/>
+      <Formee/>
     </div>
   );
 }
