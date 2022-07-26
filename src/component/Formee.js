@@ -17,8 +17,9 @@ function Formee() {
       <option value="football">Football</option>
       <option value="swimming">Swimming</option>
       <option value="cycling">Cycling</option>
-      <option value="other">something else </option>
+      <option value="other">something else</option>
     </select>      
+    
     </fieldset>
     <fieldset>
     <legend><span class="number">2</span> Additional Info</legend>
